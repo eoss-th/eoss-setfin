@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+    
+  <!-- Fundamental Update every day 05:00 -->
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Agro%20%26%20Food%20Industry&amp;sector=-</url>
+    <schedule>every tue,wed,thu,fri,sat 05:00</schedule>
+    <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Agro%20%26%20Food%20Industry&amp;sector=Agribusiness</url>
+    <schedule>every tue,wed,thu,fri,sat 05:02</schedule>
+    <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Agro%20%26%20Food%20Industry&amp;sector=Food%20%26%20Beverage</url>
+    <schedule>every tue,wed,thu,fri,sat 05:04</schedule>
+    <timezone>Asia/Bangkok</timezone>
+  </cron>
+  
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Consumer%20Products&amp;sector=-</url>
+    <schedule>every tue,wed,thu,fri,sat 05:06</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Consumer%20Products&amp;sector=Fashion</url>
+    <schedule>every tue,wed,thu,fri,sat 05:08</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Consumer%20Products&amp;sector=Home%20%26%20Office%20Products</url>
+    <schedule>every tue,wed,thu,fri,sat 05:10</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Consumer%20Products&amp;sector=Personal%20Products%20%26%20Pharmaceuticals</url>
+    <schedule>every tue,wed,thu,fri,sat 05:12</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Financials&amp;sector=-</url>
+    <schedule>every tue,wed,thu,fri,sat 05:14</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Financials&amp;sector=Banking</url>
+    <schedule>every tue,wed,thu,fri,sat 05:16</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Financials&amp;sector=Finance%20%26%20Securities</url>
+    <schedule>every tue,wed,thu,fri,sat 05:18</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Financials&amp;sector=Insurance</url>
+    <schedule>every tue,wed,thu,fri,sat 05:20</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Industrial&amp;sector=-</url>
+    <schedule>every tue,wed,thu,fri,sat 05:22</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>  
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Industrials&amp;sector=Automotive</url>
+    <schedule>every tue,wed,thu,fri,sat 05:24</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>  
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Industrials&amp;sector=Industrial%20Materials%20%26%20Machinery</url>
+    <schedule>every tue,wed,thu,fri,sat 05:26</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Industrials&amp;sector=Packaging</url>
+    <schedule>every tue,wed,thu,fri,sat 05:28</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Industrials&amp;sector=Paper%20%26%20Printing%20Materials</url>
+    <schedule>every tue,wed,thu,fri,sat 05:30</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Industrials&amp;sector=Petrochemicals%20%26%20Chemicals</url>
+    <schedule>every tue,wed,thu,fri,sat 05:32</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Industrials&amp;sector=Steel</url>
+    <schedule>every tue,wed,thu,fri,sat 05:34</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Property%20%26%20Construction&amp;sector=-</url>
+    <schedule>every tue,wed,thu,fri,sat 05:36</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Property%20%26%20Construction&amp;sector=Construction%20Materials</url>
+    <schedule>every tue,wed,thu,fri,sat 05:38</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Property%20%26%20Construction&amp;sector=Construction%20Services</url>
+    <schedule>every tue,wed,thu,fri,sat 05:40</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Property%20%26%20Construction&amp;sector=Property%20Development</url>
+    <schedule>every tue,wed,thu,fri,sat 05:42</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Property%20%26%20Construction&amp;sector=Property%20Fund%20%26%20REITs</url>
+    <schedule>every tue,wed,thu,fri,sat 05:44</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Resources&amp;sector=-</url>
+    <schedule>every tue,wed,thu,fri,sat 05:46</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Resources&amp;sector=Energy%20%26%20Utilities</url>
+    <schedule>every tue,wed,thu,fri,sat 05:48</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Services&amp;sector=-</url>
+    <schedule>every tue,wed,thu,fri,sat 05:50</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Services&amp;sector=Mining</url>
+    <schedule>every tue,wed,thu,fri,sat 05:52</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Services&amp;sector=Commerce</url>
+    <schedule>every tue,wed,thu,fri,sat 05:54</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Services&amp;sector=Health%20Care%20Services</url>
+    <schedule>every tue,wed,thu,fri,sat 05:56</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Services&amp;sector=Media%20%26%20Publishing</url>
+    <schedule>every tue,wed,thu,fri,sat 05:58</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Services&amp;sector=Professional%20Services</url>
+    <schedule>every tue,wed,thu,fri,sat 06:00</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Services&amp;sector=Tourism%20%26%20Leisure</url>
+    <schedule>every tue,wed,thu,fri,sat 06:02</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Services&amp;sector=Transportation%20%26%20Logistics</url>
+    <schedule>every tue,wed,thu,fri,sat 06:04</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Technology&amp;sector=-</url>
+    <schedule>every tue,wed,thu,fri,sat 06:06</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/SETHighlightsBatchServlet?industry=Technology&amp;sector=Electronic%20Components</url>
+    <schedule>every tue,wed,thu,fri,sat 06:08</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    <cron>
+    <url>/SETHighlightsBatchServlet?industry=Technology&amp;sector=Information%20%26%20Communication%20Technology</url>
+    <schedule>every tue,wed,thu,fri,sat 06:10</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  
+  <!-- Retry for failed Symbols -->
+  <cron>
+    <url>/SETHighlightsBatchRetryServlet</url>
+    <schedule>every tue,wed,thu,fri,sat 06:15</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+    
+  <!-- AI Learning every saturday 07:00 -->
+  <!-- 
+  <cron>
+    <url>/YahooTrainBatchServlet?industry=Agro%20%26%20Food%20Industry</url>
+    <schedule>every saturday 07:00</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooTrainBatchServlet?industry=-</url>
+    <schedule>every saturday 07:05</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooTrainBatchServlet?industry=Consumer%20Products</url>
+    <schedule>every saturday 07:10</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooTrainBatchServlet?industry=Financials</url>
+    <schedule>every saturday 07:15</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooTrainBatchServlet?industry=Industrial</url>
+    <schedule>every saturday 07:20</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooTrainBatchServlet?industry=Industrials</url>
+    <schedule>every saturday 07:25</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooTrainBatchServlet?industry=Property%20%26%20Construction</url>
+    <schedule>every saturday 07:30</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooTrainBatchServlet?industry=Resources</url>
+    <schedule>every saturday 07:35</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooTrainBatchServlet?industry=Services</url>
+    <schedule>every saturday 07:40</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooTrainBatchServlet?industry=Technology</url>
+    <schedule>every saturday 07:45</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+       -->
+  <!-- AI Predicting every tue,wed,thu,fri,sun 07:00 -->
+  <!-- 
+  <cron>
+    <url>/YahooPredictResetBatchServlet</url>
+    <schedule>every tue,wed,thu,fri,sun 06:30</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooPredictBatchServlet?industry=Agro%20%26%20Food%20Industry</url>
+    <schedule>every tue,wed,thu,fri,sun 07:00</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooPredictBatchServlet?industry=-</url>
+    <schedule>every tue,wed,thu,fri,sun 07:05</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooPredictBatchServlet?industry=Consumer%20Products</url>
+    <schedule>every tue,wed,thu,fri,sun 07:10</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooPredictBatchServlet?industry=Financials</url>
+    <schedule>every tue,wed,thu,fri,sun 07:15</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooPredictBatchServlet?industry=Industrial</url>
+    <schedule>every tue,wed,thu,fri,sun 07:20</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooPredictBatchServlet?industry=Industrials</url>
+    <schedule>every tue,wed,thu,fri,sun 07:25</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooPredictBatchServlet?industry=Property%20%26%20Construction</url>
+    <schedule>every tue,wed,thu,fri,sun 07:30</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooPredictBatchServlet?industry=Resources</url>
+    <schedule>every tue,wed,thu,fri,sun 07:35</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooPredictBatchServlet?industry=Services</url>
+    <schedule>every tue,wed,thu,fri,sun 07:40</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+  <cron>
+    <url>/YahooPredictBatchServlet?industry=Technology</url>
+    <schedule>every tue,wed,thu,fri,sun 07:45</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>  
+ -->  
+  <!-- New Company Update every sunday 00:00 -->
+  <cron>
+    <url>/SETIndexUpdaterServlet</url>
+    <schedule>every sunday 00:00</schedule>
+      <timezone>Asia/Bangkok</timezone>
+  </cron>
+</cronentries>
